@@ -9,22 +9,22 @@
 02
 ff
 c3
-53 S
-6d M
-61 A
-73 S
-68 H
-3f ??
-01 State con start
+53
+6d
+61
+73
+68
+3f
+01
 02 
-02 Sent
-1b Slept
-07 Active
-00 Prego
-58 SPENT
-02 Died??
+02
+1b
+07
+00
+58
+02
 89 
-02 Pooped
+02
 ff
 00
 02
