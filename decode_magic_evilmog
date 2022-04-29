@@ -1,0 +1,37 @@
+53 6D 61 73 68 3F 00 01 02 FF C3 53 6D 61 73 68 3F 01 02 02 0D 07 02 DC 
+01 3B 02 FF 00 02 40 00 20 63 00 2A 6E 00 4D 49 00 2D 1C 00 02 01 2C 00 
+DB 00 0E 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CF FF FF CF FF FF 
+E7 FF FF F3 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+FF FF FF FF FF E1 16 02 01 58 35 9A
+
+
+0000000000000000... 0c0ff000201eb81b7
+Status = 01
+Type = 02
+Badgeid 00dc (220)
+checksum 00
+dump decode
+	bytes 01 (conn started)
+	spent 0
+	sent 0 (social pings)
+	active 0s
+	Hyper 0s
+	prego 0s
+	died 0 times
+	got food 0 times
+	pooped 0 times
+	get knocked up 0 times
+	seen ids: 000000000000...0C
+	Badge has:
+		Seen 2 other bades
+		has spent 0
+	Food level 255
+	Poop Level 0 units
+	State bytes 0201
+		Badge is active
+		Logo Tick
+	once = eb81
+	
+fffefefe40fef2ffffff ...ff53edf1737c3f030080fe536d61736
