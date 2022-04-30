@@ -1,0 +1,45 @@
+'''
+
+53 6D 61 73 68 3F 00 01 02 FF C3 53 6D 61 73 68 3F 01 02 02 0D 07 02 DC 
+01 3B 02 FF 00 02 40 00 20 63 00 2A 6E 00 4D 49 00 2D 1C 00 02 01 2C 00 
+DB 00 0E 00 00 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF CF FF FF CF FF FF 
+E7 FF FF F3 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+FF FF FF FF FF E1 16 02 01 58 35 9A
+
+53 6D 61 73 68 3F 01 02 02 0d 07 02 dc 01 3b 02 ff 00 02 41 00 20 98 00 
+2c da 00 4e 75 00 2d 1c 00 02 01 2c 00 db 00 0e 00 00 FF FF FF FF ...
+B8 24 02 01 82 bd ae
+
+status  = 01
+type  = 02
+badge id = 020d
+Status 07
+	con started 
+	has had pink ey
+	pink eye curred
+spent 732
+got sick from 013b
+sent 577 socal pings
+slept 8344s
+hyper 20085
+prego 11548s
+died 2 times
+got food 300 timespoop 219 times
+got knocked up 14 times
+seen ids: FFFF... FFFF
+Badge has:
+	Seen 768 Other Badge
+	Has Spent 732
+	36 Credits left
+food level 184
+poop level 36 units
+state byte 0201
+	badge is active
+	logo tick
+once = 82bd (5835)
+
+
+
+'''

@@ -1,0 +1,27 @@
+import time
+import serial
+import sys
+import binascii
+import inspect
+
+
+# This function takes a command string and sends individual bytes.
+# It also reports the response.
+def send_command(cmd_name, cmd_string):
+    print ("\ncmd_name:", cmd_name)
+    print ("cmd_string:", cmd_string)
+    cmd_bytes = bytearray.fromhex(cmd_string)
+    for cmd_byte in cmd_bytes:
+        hex_byte = ("{0:02x}".format(cmd_byte))
+        #print (hex_byte)
+        ser.write(bytearray.fromhex(hex_byte))
+        time.sleep(.100)
+
+ 
+    response = ser.read(32)
+    print ("response:", binascii.hexlify(bytearray(response)))
+    return
+
+
+
+J10KHT
