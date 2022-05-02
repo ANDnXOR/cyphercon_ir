@@ -1,7 +1,4 @@
 # LqqkOut's code for badge transmissions
-# Heavily modified by EvilMog
-# Based on Data captured by AND!XOR and Illuminati party
-# Also based on wireengineer screenshots
 
 import serial
 import time
@@ -46,8 +43,14 @@ def vendo():
     data_array = data_raw.decode("all-escapes").split("\\x")
 
     print(data_array)
-
-
+    badge_id = data_array[20] + data_array[21]
+    badge_status = data_array[27]
+    badge_spent = data_array[23] + data_array[24]
+    badge_credits = data_array[32] + data_array[33]
+    print("Badge ID:" + badge_id)
+    print("Badge Status Flag: " + badge_status)
+    print("Spent Credits: " + badge_spent)
+    print("Remaining Credits: " + badge_credits)
     # The previous line is just the beginning of a parser that I didn't
     # have time to complete. Best case is to find the intro string "Smash?" 
     # and start decoding with the bytes after that. pretty_bytes should take 
@@ -89,14 +92,18 @@ def outhouse():
 #vendo()
 
 def find_byte():
-    data_string = bytearray.fromhex("536D6173683F000102FFC3536D6173683F0102020D0702DC013B02FF00024200240E002E71004F4D00309A000201BC016A000F0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBF080309C80E94").decode("all-escapes").split("\\x")
-    print(data_string)
+    data_array = bytearray.fromhex("536D6173683F000102FFC3536D6173683F0102020D0702DC013B02FF00024200240E002E71004F4D00309A000201BC016A000F0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBF080309C80E94").decode("all-escapes").split("\\x")
+    print(data_array)
     counter = 0
-    for line in data_string:
-        if line == "3b":
-            print(counter)
+    for line in data_array:
+        if line == "24":
+            print("Data found: " + str(counter))
+            print("data: " + data_array[counter - 1] + data_array[counter])
         counter = counter + 1
+    emulated_string = data_array[23]
+    #print(emulated_string)
 
 find_byte()
 
 vendo()
+
