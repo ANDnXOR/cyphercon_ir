@@ -50,7 +50,7 @@ def vendo():
     print("Badge ID:" + badge_id)
     print("Badge Status Flag: " + badge_status)
     print("Spent Credits: " + badge_spent)
-    print("Remaining Credits: " + badge_credits)
+    #print("Remaining Credits: " + badge_credits)
     # The previous line is just the beginning of a parser that I didn't
     # have time to complete. Best case is to find the intro string "Smash?" 
     # and start decoding with the bytes after that. pretty_bytes should take 
@@ -89,6 +89,10 @@ def outhouse():
     poop=bytearray.fromhex("536D6173683F000002A320")
     ser.write(poop)
 
+def reset_badge():
+    reset_badge_evil=bytearray.fromhex("536D6173683F00DEADBEEF29D6A2EC")
+    ser.write(reset_badge_evil)
+
 #vendo()
 
 def find_byte():
@@ -100,10 +104,13 @@ def find_byte():
             print("Data found: " + str(counter))
             print("data: " + data_array[counter - 1] + data_array[counter])
         counter = counter + 1
-    emulated_string = data_array[23]
+    emulated_string = data_array[38]
     #print(emulated_string)
 
-find_byte()
+#find_byte()
 
+#vendo()
+
+#reset_badge()
 vendo()
 
