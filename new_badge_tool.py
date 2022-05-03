@@ -37,16 +37,15 @@ def vendo():
         exit()
 
     # Status
-    badge_status = data_array[7]
+    badge_status = data_array[8]
     if badge_status == "01":
         print("[+] Con Start: " + badge_status)
     if badge_status == "02":
         print("[-] Sick: " + badge_status)
-    print("[ ] Status Byte: " + badge_status)
 
     # Ping Type
-    badge_ping_type = data_array[8]
-    if badge_ping_type == "00":
+    badge_ping_type = data_array[9]
+    if badge_ping_type == "02":
         print("[+] Social Ping")
     else:
         print("[-] Unknown Packet Type")
