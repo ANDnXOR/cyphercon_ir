@@ -121,5 +121,18 @@ def start_con():
     start_con_flag=bytearray.fromhex("536d6173683f010002fec4")
     ser.write(start_con_flag)
 
+def jackpot():
+    for i in range(000,800, 1):
+        a = write_this(i)
+        print(f"sending: {a.hex()}")
+        ser.write(a)
+        time.sleep(.1)
+        ser.write(a)
+        ser.write(a)
+        ser.write(a)
+        time.sleep(.1)
+        ser.write(a)
+        time.sleep(.7)
 
-#vendo()
+vendo()
+#jackpot()
