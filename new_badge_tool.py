@@ -46,7 +46,7 @@ def vendo():
     # Ping Type
     badge_ping_type = data_array[9]
     if badge_ping_type == "02":
-        print("[+] Social Ping")
+        print("[+] Data Dump")
     else:
         print("[-] Unknown Packet Type")
 
@@ -54,7 +54,9 @@ def vendo():
     badge_id = data_array[9:11]
     print("Badge ID: + " + ''.join(badge_id))
 
-    #
+    # Badge Status Flags
+    badge_status_flags = data_array[11]
+    print("Badge Status Flags: " + badge_status_flags)
 
     print(data_array)
     
@@ -108,8 +110,16 @@ def outhouse():
     ser.write(poop)
 
 def reset_badge():
-    reset_badge_evil=bytearray.fromhex("536D6173683F00DEADBEEF29D6A2EC")
+    ser.flushInput()
+    ser.flushOutput()
+    reset_badge_evil=bytearray.fromhex("536d6173683f00deadbeef29d6a2ec")
     ser.write(reset_badge_evil)
 
+def start_con():
+    ser.flushInput()
+    ser.flushOutput()
+    start_con_flag=bytearray.fromhex("536d6173683f010002fec4")
+    ser.write(start_con_flag)
 
-vendo()
+
+#vendo()
