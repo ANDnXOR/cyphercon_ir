@@ -3,6 +3,7 @@
 # evilmog heavily modified and rewrote the vendo() and badge send
 # MIT Licensed
 
+
 import serial
 import time
 import binascii
@@ -19,37 +20,46 @@ def pretty_bytes(intro, data_raw, first_byte, last_byte):
     print(intro + ": " + bytestring)
 
 #pretend to be a vending machine - send a code, badge dumps status back
-# new parser based on https://github.com/Wireb/Cyphercon-5_3-2022/blob/master/perl/Vendo_test.pl
 def vendo(): 
     vendo=bytearray.fromhex("536D6173683F000102ffc3")
     ser.flushInput()
     ser.write(vendo)
     data_raw=ser.readline()
-    data_array = data_raw.decode("all-escapes").replace("\\x", "")
+    data_array = data_raw.decode("all-escapes").split("\\x")
     expected_header = '536d6173683f' # Smash?
 
     # definitions for decoder
-    if data_array[0:12] == "536d6173683f":
+    if ''.join(data_array[0:7]) == "536d6173683f":
         print("[+] Correct Header")
         print("")
     else:
+        print(''.join(data_array[0:7]))
         exit()
 
     # Status
-    badge_status = data_array[14:16]
+    badge_status = data_array[7]
     if badge_status == "01":
         print("[+] Con Start: " + badge_status)
     if badge_status == "02":
         print("[-] Sick: " + badge_status)
+    print("[ ] Status Byte: " + badge_status)
 
     # Ping Type
-    badge_ping_type = data_array[16:18]
-    if badge_ping_type == "02":
-        print("[+] Data Dump")
+    badge_ping_type = data_array[8]
+    if badge_ping_type == "00":
+        print("[+] Social Ping")
     else:
         print("[-] Unknown Packet Type")
 
-  
+    # Badge ID
+    badge_id = data_array[9:11]
+    print("Badge ID: + " + ''.join(badge_id))
+
+    #
+
+    print(data_array)
+    
+    
 # Checksum calculator from carfucar
 def write_this(b_id: int) -> bytes:
     header = b'Smash?'
