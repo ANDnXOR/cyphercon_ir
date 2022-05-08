@@ -133,6 +133,43 @@ def jackpot():
         time.sleep(.1)
         ser.write(a)
         time.sleep(.7)
+        
+def cryptoStuff(crypt, key):
+
+    const_rounds = 26
+    const_wbytes = 5
+    
+    for i in range(const_rounds):
+        c0 = crypt[const_wbytes]
+        k0 = key[const_wbytes]
+        ac = 0
+        ak = 0
+        for j in range(const_wbytes-1):
+            ac += crypt[j] + crypt[(j+1) + const_wbytes]
+            crypt[j+const_wbytes] = (ac ^ key[j])&0xFF
+            ac = ac >> 8
+            
+            ak = key[j] + key[(j+1) + const_wbytes]
+            key[j+const_wbytes] = (ac ^ key[j])&0xFF
+            ak = ak >> 8
+        
+        ac += crypt[const_wbytes-1] + c0
+        crypt[(const_wbytes-1) + const_wbytes] = (ac ^ key[const_wbytes-1])&0xFF
+        
+        ak += key[const_wbytes-1] + k0
+        key[(const_wbytes-1)+const_wbytes] = ak&0xFF
+        key[const_wbytes] =  (key[const_wbytes]^i)&0xFF
+        
+        c0 = crypt[const_wbytes-1]
+        k0 = key[const_wbytes-1]
+        for j in range(const_wbytes-1, 0, -1):
+            crypt[j] = (((crypt[j] << 3) | (crypt[j-1] >> 5)) ^ crypt[j + const_wbytes])&0xFF
+            key[j] = (((key[j] << 3) | (key[j-1] >> 5)) ^ key[j + const_wbytes])&0xFF
+        
+        crypt[0] = (((crypt[0] << 3) | (c0 >> 5)) ^ crypt[const_wbytes])&0xFF
+        key[0] = (((key[0] << 3) | (k0 >> 5)) ^ key[const_wbytes])&0xFF 
+    
+    return crypt
 
 vendo()
 #jackpot()
