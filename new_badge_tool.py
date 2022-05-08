@@ -2,6 +2,8 @@
 # carfucar checksum generator
 # evilmog heavily modified and rewrote the vendo() and badge send
 # MIT Licensed
+# Leeky for the perl to python crypto() translation
+#   has not been tested yet
 
 
 import serial
