@@ -1,0 +1,58 @@
+```
+sending spend 0x02 credit request to badge 0x020d once = 0x9944
+        Packet contents:
+                0x020d badge ID
+                0x9944 badge ONCE
+                0x0002 requested credits
+                0x5bcefc vendo ONCE
+                0xed checksum
+        encrypt data
+                Get badge key
+                key = e92fd2287edca7e2b18c
+                key   = 0xE92FD2287EDCA7E2B18C
+                input = 0x020D994400025BCEFCED
+                crypt = 0x82362897D7BBD2AC86CF
+536d6173683f000302ff82362897d7bbd2ac86cfe5
+Status = 0x00
+type = 0x03 Request credits
+Badge ID = 0x02ff / 767 Vendo
+Checksum = 0x00 [ok]
+Dump decode
+        Raw string 0x82362897d7bbd2ac86cf
+        decrypt data
+                Get badge key
+                key = e92fd2287edca7e2b18c
+                key     = 0xE92FD2287EDCA7E2B18C
+                input   = 0x82362897D7BBD2AC86CF
+                decrypt = 0x020D994400025BCEFCED
+        Packet contents:
+                0x020d badge ID
+                0x9944 badge ONCE
+                0x0002 requested credits
+                0x5bcefc vendo ONCE
+                0xed checksum
+
+536d6173683f0104020d634fd39bf78fd742fc8e68
+Status = 0x01 Con_start,
+type = 0x04 Confirm credits
+Badge ID = 0x020d / 525 Speaker or turkey baster
+Checksum = 0x00 [ok]
+Dump decode
+        Raw string 0x634fd39bf78fd742fc8e
+        decrypt data
+                Get badge key
+                key = e92fd2287edca7e2b18c
+                key     = 0xE92FD2287EDCA7E2B18C
+                input   = 0x634FD39BF78FD742FC8E
+                decrypt = 0x020D5BCEFC0002502E4C
+        Packet contents:
+                0x020d badge ID
+                0x5bcefc vendo ONCE
+                0x0002 requested credits
+                0x502e NOT badge ONCE
+                0x4c checksum
+        Packet all good. Vend the LOOT!!
+```
+
+# Algo Info
+We know the algo used is Speck https://en.wikipedia.org/wiki/Speck_(cipher) using 26 rounds and 80 bit keys
