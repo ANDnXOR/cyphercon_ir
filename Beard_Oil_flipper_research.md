@@ -234,4 +234,4 @@ Pulse Pairs
 ```
 
 # Decoding guide
-[Decoding](IR_NEC decoder)
+(https://github.com/Arduino-IRremote/Arduino-IRremote#how-we-decode-signals)[https://github.com/Arduino-IRremote/Arduino-IRremote#how-we-decode-signals]
