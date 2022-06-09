@@ -234,4 +234,4 @@ Pulse Pairs
 ```
 
 # Decoding guide
-(https://github.com/Arduino-IRremote/Arduino-IRremote#how-we-decode-signals)[https://github.com/Arduino-IRremote/Arduino-IRremote#how-we-decode-signals]
+https://github.com/Arduino-IRremote/Arduino-IRremote#how-we-decode-signals
