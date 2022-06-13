@@ -235,3 +235,17 @@ Pulse Pairs
 
 # Decoding guide
 https://github.com/Arduino-IRremote/Arduino-IRremote#how-we-decode-signals
+
+# AnalyseIR
+```
+[DISNEY]
+altName=Serial 3000 BAUD   #1 start bit, 1 stop bit, no parity, BAUD 3000
+Header=1000
+HeaderSpace=333
+Mark=333
+Space0=333
+Space1=0
+Delta=160
+Bits=8
+Carrier=38000
+```
