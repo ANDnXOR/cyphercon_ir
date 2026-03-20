@@ -1,0 +1,525 @@
+label,kind,seed32,session_file_start,session_file_end,session_run_len,badge_id_at_start,notes,file_pos,key_index,key_hex
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,1,0,3f2da9c007c74b094a48
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,2,1,b382c849da418a9a2ac3
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,3,2,f140482cd66aa87d8603
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,4,3,3912a73916e35cbb71cd
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,5,4,ceb038fc2bb3e97a9af4
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,6,5,45a511a73a1e633f35f0
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,7,6,aee2dc559b8a398d4c1f
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,8,7,97f304f32214402a5955
+A1,high_confidence,3824015219,1,9,9,631,Early top-of-file fragment,9,8,44e35fefeb2b151b9690
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,10,0,ebce1e16e356ab544029
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,11,1,e3078a811bd52889dbfe
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,12,2,ad5851a5f0f05e0876f3
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,13,3,43d5cb946d6cc89b2643
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,14,4,7fac67d18f33d507f72d
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,15,5,2940f0331862cd427208
+R1,repair_candidate,2851492325,10,16,7,640,Repair / short batch candidate,16,6,a2eb2e32c863ef2abe03
+A2,high_confidence,2780395207,20,42,23,650,Strong session,20,0,6d6dd19d95960daf4939
+A2,high_confidence,2780395207,20,42,23,650,Strong session,21,1,d9467f590cbf0c0efdd4
+A2,high_confidence,2780395207,20,42,23,650,Strong session,22,2,ca50cffe19be4ae5ae22
+A2,high_confidence,2780395207,20,42,23,650,Strong session,23,3,096b33690e10fb0a2a2c
+A2,high_confidence,2780395207,20,42,23,650,Strong session,24,4,890a0468f44f83a51978
+A2,high_confidence,2780395207,20,42,23,650,Strong session,25,5,63699ac0b98b81a6b93e
+A2,high_confidence,2780395207,20,42,23,650,Strong session,26,6,93f60bf666f8ee0f1358
+A2,high_confidence,2780395207,20,42,23,650,Strong session,27,7,c56be34d2e370af02992
+A2,high_confidence,2780395207,20,42,23,650,Strong session,28,8,71ca7014f0d24c60d30f
+A2,high_confidence,2780395207,20,42,23,650,Strong session,29,9,0269249ac8435e268922
+A2,high_confidence,2780395207,20,42,23,650,Strong session,30,10,b4b88501cbee39a60895
+A2,high_confidence,2780395207,20,42,23,650,Strong session,31,11,8ae072ea32dd3e649fd1
+A2,high_confidence,2780395207,20,42,23,650,Strong session,32,12,76358955d0536648e25a
+A2,high_confidence,2780395207,20,42,23,650,Strong session,33,13,39121222b6a33102c9fc
+A2,high_confidence,2780395207,20,42,23,650,Strong session,34,14,a29e4d29eefacceefb69
+A2,high_confidence,2780395207,20,42,23,650,Strong session,35,15,4ea6a8f719e149629c19
+A2,high_confidence,2780395207,20,42,23,650,Strong session,36,16,188032efc6a0d6ef01ea
+A2,high_confidence,2780395207,20,42,23,650,Strong session,37,17,8e62bf56a1b3b2e13032
+A2,high_confidence,2780395207,20,42,23,650,Strong session,38,18,0026fa3969fb8a154c65
+A2,high_confidence,2780395207,20,42,23,650,Strong session,39,19,78c83712de611399bf0c
+A2,high_confidence,2780395207,20,42,23,650,Strong session,40,20,1595fbcdf0e6f9de06f1
+A2,high_confidence,2780395207,20,42,23,650,Strong session,41,21,c86d299bbab402122cf1
+A2,high_confidence,2780395207,20,42,23,650,Strong session,42,22,6e029e7c817a96b79a80
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,49,0,edcd78d7ea75ece78b81
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,50,1,f9a3892638137b0e3b75
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,51,2,8ed01d07e99c386ce61c
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,52,3,1ccc3e745c2fb072f82e
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,53,4,9271c53066aad4ed4885
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,54,5,3b21357665c0c960a084
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,55,6,b361ba0994cd54f75649
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,56,7,e944219b3d3af268f9e8
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,57,8,f1fd337c8faf7a747510
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,58,9,18079600b73cf2e34e0a
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,59,10,2fe6bbb4d0bcf5b22bfb
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,60,11,25c3f6753ab47fac80c5
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,61,12,f2cbf0b7ae18e117bc50
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,62,13,e92fd2287edca7e2b18c
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,63,14,68395b273d58f3cddfdc
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,64,15,8c7a118a4cfa47f70719
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,65,16,a16111283932e3ae9ba0
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,66,17,b449270e9e1f93073f39
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,67,18,d5372e9a4c35ce0cac79
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,68,19,be6e532156fce8b16858
+A3,high_confidence,2196460210,49,69,21,512,512 block into following run,69,20,7c3f74ef7a779e7c357b
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,70,0,11e9887f04606013fb8c
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,71,1,e09029a37e62eb31f766
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,72,2,939c2916492e3a22ebfa
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,73,3,50778adb57f794d6dce3
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,74,4,b1dd4ed902d4b8161eca
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,75,5,7d9965503263d21f625c
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,76,6,1451380345418f1cd243
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,77,7,ba48433b850880718185
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,78,8,433a328b4525fb69cb69
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,79,9,5dd969cee25621a0a7e4
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,80,10,8f07ec748b6da8e0c45e
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,81,11,950efe9e3f765be4afe0
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,82,12,c1e4901bf302662aea5b
+A4,high_confidence,1964177823,70,83,14,533,Strong fragment,83,13,d90f70c38e4460e118fe
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,84,0,6c7f92f48baa4905b68c
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,85,1,868a6ed29c85fc1f0f87
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,86,2,77bfe1197526a9f0805e
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,87,3,e2ec639090ecb8da6662
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,88,4,22303e6d3b27610c007a
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,89,5,5cca95fb0d2f1320fa31
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,90,6,692e4dc514216aa2953b
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,91,7,b6edcc2e8750202c9991
+A5,high_confidence,3765470317,84,92,9,547,Strong fragment,92,8,7b3d1d1e368677f9bc02
+R2,repair_candidate,600467025,93,94,2,1,Repair / short batch candidate,93,0,d0a729972835d5c89078
+R2,repair_candidate,600467025,93,94,2,1,Repair / short batch candidate,94,1,80c0df050b2e8cc75d21
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,96,0,e2aef703fd161dbaf95f
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,97,1,47cc2a84074b3a3e3596
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,98,2,6147984cbba2bd8e3703
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,99,3,d4428839fa710ad49d63
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,100,4,288d0b35e835164f92df
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,101,5,f616ddd560ce875d4d11
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,102,6,e450308e7750ed4dd896
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,103,7,81cc8116bb84ae23c9bd
+A6,high_confidence,3409364283,96,104,9,2,Duplicate/reflash area,104,8,dfd9f3f642d61f5561a3
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,105,0,19cdfbc3255cebc0a94e
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,106,1,0211ab9277cd3f6e4c73
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,107,2,4c9071fa03d48c433a70
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,108,3,f33ddf4dfba2176f0eb4
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,109,4,76be5765aebeb9245a83
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,110,5,dc592163305dcc10fded
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,111,6,aad51bbcf6a045e36c6c
+A7,high_confidence,1471041271,105,112,8,10,Duplicate/reflash area,112,7,db8c40a91de27d855820
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,113,0,8b870d9f87be9faf1e5e
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,114,1,414748bbead41bd98fdf
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,115,2,f4896ef7cf6b936dc5e6
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,116,3,79f20ddb75acd741b1c4
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,117,4,7f2112ba3ebb0a281d48
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,118,5,c9e73305d6eccc71daa3
+R3,repair_candidate,3030724834,113,119,7,17,Repair / short batch candidate,119,6,b2a9731254969f33cff7
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,122,0,da8a5fbf54e106c2813b
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,123,1,86562eb9baa4011eece4
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,124,2,9a613ffeeb714807713c
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,125,3,99d81e00656b2328a827
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,126,4,884ce17d7c2deead9d63
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,127,5,14bc0c70fc136042f3af
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,128,6,7235ea4b4b786c16e4da
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,129,7,3d1e83d1de504ae77cb1
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,130,8,c3017b931aef07b88ae2
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,131,9,d4f724c2f5e7e0d14125
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,132,10,00bf5161f0a598d38f28
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,133,11,9da941586835877467d3
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,134,12,272112c76d3593aa609b
+A8,high_confidence,1634202772,122,135,14,24,Starts on duplicate ID 24,135,13,0310bdac27a15c11f932
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,136,0,1a08c595bd916c36aa9b
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,137,1,2a513b1ee6fe4befb60d
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,138,2,f48cbe3b2b771f06e2b0
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,139,3,fc0070464afc47863a0b
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,140,4,f69cb2243b99ec4662d0
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,141,5,a280a36e074ba181449b
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,142,6,cdb678e605d7cc43044a
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,143,7,ca9158839d3074e33799
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,144,8,8079fa489f7bbcb51a10
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,145,9,bd6a71b6f8a668e696a5
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,146,10,b8212585dc3d60007943
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,147,11,195a01adbbe206621bb6
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,148,12,561d47b74ba426fe1d79
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,149,13,b525fe9279438d58afef
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,150,14,c9867aa82fef80707a65
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,151,15,5f7c6ec9793a94efba4a
+A9,high_confidence,2978206399,136,152,17,37,Starts on duplicate ID 37,152,16,839c8f8961b7aa8ff53a
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,153,0,4204472f4c0461e5d595
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,154,1,33948af36c4a4e832cf0
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,155,2,cf6bb6540c071eb36b74
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,156,3,933c661d99f8af8f7b85
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,157,4,fa3a0dbb37e3565c8c99
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,158,5,28a0ccb265309f1e4b72
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,159,6,34d44093dc7e55d2393d
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,160,7,324dbf67a51b3d7f5a5f
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,161,8,08a7f71aa33bf8af64f5
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,162,9,779b13c8d205babf9d96
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,163,10,6608eaf03dae6f31aa3b
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,164,11,894126ca39a232d24fae
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,165,12,ac12218d07d8fb851a26
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,166,13,e9379801bf189611af9f
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,167,14,8be01d0053a9b873e9ab
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,168,15,da4d33ed3a6ddcd910f4
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,169,16,fecc9aba2f9b0f1f7e37
+A10,high_confidence,3633125972,153,170,18,53,Starts on duplicate ID 53,170,17,c6b6aa78e71981021954
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,171,0,0993776634c609a4e073
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,172,1,62e80b2bd5387417c6a6
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,173,2,f72d77755a085958e1ae
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,174,3,4b48346986a72ffc5a17
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,175,4,670d3a5bbca37f6bfea5
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,176,5,61b5f80aa349b012e0e3
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,177,6,64908b5c3464833fcd36
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,178,7,8dc2706f862e9ec67f5f
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,179,8,cfd48f656f666043702b
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,180,9,4d7205e589f151b87371
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,181,10,71b1bd08e852840eca53
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,182,11,05f7c96ca2f46b63147c
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,183,12,120fb7261e91e380716a
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,184,13,4fb6fce15b586cfde0ec
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,185,14,f67f064779e4b6b432a4
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,186,15,52701a8f4b0279e3798e
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,187,16,097298c0f4bbbafec57f
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,188,17,068c3bdab2fc8ee762a3
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,189,18,97926d1ff8aff41f1ef7
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,190,19,318ecfc6bac1acfe38bd
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,191,20,d7dbd27087452dd16bfa
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,192,21,6791a8bed4489e0ec381
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,193,22,1b6138f5b7bcb98b0fe9
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,194,23,7dc76bc13fbc5972f269
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,195,24,27c8fe45290adc432009
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,196,25,751bb9a7400ba859a9e7
+A11,high_confidence,713806982,171,197,27,70,Starts on duplicate ID 70,197,26,79dd678f634273761b7f
+R4,repair_candidate,284130796,198,200,3,95,Repair / short batch candidate,198,0,4a3595360519aa13beaf
+R4,repair_candidate,284130796,198,200,3,95,Repair / short batch candidate,199,1,c15993af7c8172bd2a6b
+R4,repair_candidate,284130796,198,200,3,95,Repair / short batch candidate,200,2,94e0c843962b78046f55
+R5,repair_candidate,523886394,201,203,3,97,Repair / short batch candidate,201,0,8a4e05bea2064d9f2def
+R5,repair_candidate,523886394,201,203,3,97,Repair / short batch candidate,202,1,5adde9e2370e339c096e
+R5,repair_candidate,523886394,201,203,3,97,Repair / short batch candidate,203,2,8a8f9765bea72b8f4694
+A12,high_confidence,809496195,207,276,70,102,Major session,207,0,a19630aff6937f21900c
+A12,high_confidence,809496195,207,276,70,102,Major session,208,1,8c5ced3645b9f111664f
+A12,high_confidence,809496195,207,276,70,102,Major session,209,2,09ea955e19709bca32e5
+A12,high_confidence,809496195,207,276,70,102,Major session,210,3,04eaf0ea192ced7a5bc3
+A12,high_confidence,809496195,207,276,70,102,Major session,211,4,61420fa513824c9b08aa
+A12,high_confidence,809496195,207,276,70,102,Major session,212,5,2660e7d27d3f69896afc
+A12,high_confidence,809496195,207,276,70,102,Major session,213,6,e7796f67a23a67177dbc
+A12,high_confidence,809496195,207,276,70,102,Major session,214,7,7e703c982db811de69d3
+A12,high_confidence,809496195,207,276,70,102,Major session,215,8,6140f05ba383c3fd2e35
+A12,high_confidence,809496195,207,276,70,102,Major session,216,9,a4870a22423a435623ca
+A12,high_confidence,809496195,207,276,70,102,Major session,217,10,8e4f1946f9346a4b70d3
+A12,high_confidence,809496195,207,276,70,102,Major session,218,11,6539ef5c22fa1d7a6a59
+A12,high_confidence,809496195,207,276,70,102,Major session,219,12,92c9b5faa6333eb58e2f
+A12,high_confidence,809496195,207,276,70,102,Major session,220,13,57a31ea9bf47ae1fca28
+A12,high_confidence,809496195,207,276,70,102,Major session,221,14,e0b1de9fdb8bf2dcf70a
+A12,high_confidence,809496195,207,276,70,102,Major session,222,15,b3435cfb249cc9be720b
+A12,high_confidence,809496195,207,276,70,102,Major session,223,16,61f6a9065716fa1c3074
+A12,high_confidence,809496195,207,276,70,102,Major session,224,17,1fba0771bf4b07d9211e
+A12,high_confidence,809496195,207,276,70,102,Major session,225,18,f897ae03d0094e9652f1
+A12,high_confidence,809496195,207,276,70,102,Major session,226,19,08276730b8abc5f96eb5
+A12,high_confidence,809496195,207,276,70,102,Major session,227,20,f999bdfdf0acf3558d82
+A12,high_confidence,809496195,207,276,70,102,Major session,228,21,ad78ad04976f3d18c2cc
+A12,high_confidence,809496195,207,276,70,102,Major session,229,22,afc07aca180ccab81c8a
+A12,high_confidence,809496195,207,276,70,102,Major session,230,23,184401eb285dc421d196
+A12,high_confidence,809496195,207,276,70,102,Major session,231,24,d7321970e9cb9fc4ac5c
+A12,high_confidence,809496195,207,276,70,102,Major session,232,25,cde12265e05673bc481d
+A12,high_confidence,809496195,207,276,70,102,Major session,233,26,106d380be17e19f92c45
+A12,high_confidence,809496195,207,276,70,102,Major session,234,27,cf79a374bc08a4558a94
+A12,high_confidence,809496195,207,276,70,102,Major session,235,28,3a7fb2dde42c9ed50416
+A12,high_confidence,809496195,207,276,70,102,Major session,236,29,85b9c8d54e87f8478ad6
+A12,high_confidence,809496195,207,276,70,102,Major session,237,30,e572e6579ebaa17a9cee
+A12,high_confidence,809496195,207,276,70,102,Major session,238,31,af478ac21102d31824be
+A12,high_confidence,809496195,207,276,70,102,Major session,239,32,a42255d4628bb175e05c
+A12,high_confidence,809496195,207,276,70,102,Major session,240,33,1c72181d3dbffa8c7484
+A12,high_confidence,809496195,207,276,70,102,Major session,241,34,5a05ccc2ec6cf54607cd
+A12,high_confidence,809496195,207,276,70,102,Major session,242,35,1dec8e05ec510d5f4f2e
+A12,high_confidence,809496195,207,276,70,102,Major session,243,36,d3aa7145d19a8c44944d
+A12,high_confidence,809496195,207,276,70,102,Major session,244,37,f4af05f8469d9eea20fe
+A12,high_confidence,809496195,207,276,70,102,Major session,245,38,da5aab532dcd9335369c
+A12,high_confidence,809496195,207,276,70,102,Major session,246,39,fadb73acf2ac4701bb34
+A12,high_confidence,809496195,207,276,70,102,Major session,247,40,0f31842e89403474b144
+A12,high_confidence,809496195,207,276,70,102,Major session,248,41,e626f7420ee82ea39cf1
+A12,high_confidence,809496195,207,276,70,102,Major session,249,42,52dde2046ea986bd388d
+A12,high_confidence,809496195,207,276,70,102,Major session,250,43,44d483c631b59d1ed6d4
+A12,high_confidence,809496195,207,276,70,102,Major session,251,44,223b5bd7c869514f66d5
+A12,high_confidence,809496195,207,276,70,102,Major session,252,45,30fdb0daa2f89bebaa80
+A12,high_confidence,809496195,207,276,70,102,Major session,253,46,1a23c9982aa4d9f1109d
+A12,high_confidence,809496195,207,276,70,102,Major session,254,47,e13c80be066de5437bae
+A12,high_confidence,809496195,207,276,70,102,Major session,255,48,e64a6331eea86b8de47f
+A12,high_confidence,809496195,207,276,70,102,Major session,256,49,881469566fc292c1d8ed
+A12,high_confidence,809496195,207,276,70,102,Major session,257,50,f0342ebccf16e1ccf9dd
+A12,high_confidence,809496195,207,276,70,102,Major session,258,51,ab4fecce1a6978e2cfba
+A12,high_confidence,809496195,207,276,70,102,Major session,259,52,aaee6c3bb8907110d5de
+A12,high_confidence,809496195,207,276,70,102,Major session,260,53,be17109a3aad014dfb54
+A12,high_confidence,809496195,207,276,70,102,Major session,261,54,9633c46507c939009c4d
+A12,high_confidence,809496195,207,276,70,102,Major session,262,55,ab87fd812bd3f1b576cf
+A12,high_confidence,809496195,207,276,70,102,Major session,263,56,589c963c525312f89562
+A12,high_confidence,809496195,207,276,70,102,Major session,264,57,3ef68155099f03d19e7e
+A12,high_confidence,809496195,207,276,70,102,Major session,265,58,c165a4dc4879f7b84df0
+A12,high_confidence,809496195,207,276,70,102,Major session,266,59,1bfc87ae3c205563158a
+A12,high_confidence,809496195,207,276,70,102,Major session,267,60,e6bbeb04f3e339e6279a
+A12,high_confidence,809496195,207,276,70,102,Major session,268,61,6f232360cda3d2d52784
+A12,high_confidence,809496195,207,276,70,102,Major session,269,62,79f840ca24af3a0fedb9
+A12,high_confidence,809496195,207,276,70,102,Major session,270,63,104890504a105358aed6
+A12,high_confidence,809496195,207,276,70,102,Major session,271,64,29d030aca91ee3c5b714
+A12,high_confidence,809496195,207,276,70,102,Major session,272,65,5aca807d932a8f16b9fb
+A12,high_confidence,809496195,207,276,70,102,Major session,273,66,f6cf3a32851ff38dd7a0
+A12,high_confidence,809496195,207,276,70,102,Major session,274,67,f3776c4b23eb558da682
+A12,high_confidence,809496195,207,276,70,102,Major session,275,68,b36e9c2ad814d5d095ce
+A12,high_confidence,809496195,207,276,70,102,Major session,276,69,fcaafeec9112425f5c89
+R6,repair_candidate,2098923695,278,280,3,171,Repair / short batch candidate,278,0,7c6bc80c5f2d9e3bc08c
+R6,repair_candidate,2098923695,278,280,3,171,Repair / short batch candidate,279,1,0b71efde744f261b40b1
+R6,repair_candidate,2098923695,278,280,3,171,Repair / short batch candidate,280,2,c6657a8fb6af24545acb
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,281,0,6d00c3160b1d7551f7c0
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,282,1,9cd3ac3e4c328cd906b8
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,283,2,9806960f0e72d569ad3b
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,284,3,20a67514a4d8f0bcfba0
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,285,4,1f600974cdadc8eeb05f
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,286,5,fdf7fdeaa165af624ae2
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,287,6,598c179be32a5729d960
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,288,7,8efd0d132c1d347a5fd2
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,289,8,473850203b9321e4c63c
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,290,9,d43328c21481101b3e24
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,291,10,8345d35e16aaba8a2f59
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,292,11,610cf5bfdcb56c0d35ab
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,293,12,e4c536fb56a7098c506b
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,294,13,12f78eb926a69f67369e
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,295,14,0a5548d966ddb03243ca
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,296,15,8e1807b99fa0f35089dd
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,297,16,ea7673ee997224779c32
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,298,17,41eaceb527f6cc8fad9c
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,299,18,60e0f6ed75e5657aae7d
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,300,19,8b64c7714db277ccd4c4
+A13,high_confidence,995284052,281,301,21,173,Starts on duplicate ID 173,301,20,78c751a2c4ef6208698c
+R7,repair_candidate,2010031080,302,307,6,192,Repair / short batch candidate,302,0,1f8cb185e6b24cefaec6
+R7,repair_candidate,2010031080,302,307,6,192,Repair / short batch candidate,303,1,33c8673c51143e9468e5
+R7,repair_candidate,2010031080,302,307,6,192,Repair / short batch candidate,304,2,dbc9e62d11cdde65f496
+R7,repair_candidate,2010031080,302,307,6,192,Repair / short batch candidate,305,3,06c077dd369fc81d22d8
+R7,repair_candidate,2010031080,302,307,6,192,Repair / short batch candidate,306,4,e7a4685757e70147a7e8
+R7,repair_candidate,2010031080,302,307,6,192,Repair / short batch candidate,307,5,33f1b8b8242b2f688c55
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,308,0,2609b318bbd6cf5df026
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,309,1,0a5a4b06f5ccea01371a
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,310,2,6a84e90e86b67952b04c
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,311,3,9aa6168eb65c9c38411d
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,312,4,98050504762b1de863b4
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,313,5,a7831cc20fd1ba194565
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,314,6,ec4c84dc75c7d3e03902
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,315,7,12a633f8e3a6748af7f0
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,316,8,884412c37e9c291bb448
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,317,9,eb970c2ca025208ddeab
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,318,10,f4ec4ae40167cc9ddd27
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,319,11,7efdcbb34f311cc3c364
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,320,12,3647290f5d2b8d0382b6
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,321,13,12a8a713b680db7ac83b
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,322,14,d6acdf0635e474e8a69e
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,323,15,0c39f95d3d8691279db8
+A14,high_confidence,2571777921,308,324,17,197,Starts on duplicate ID 197,324,16,86419ea9b6457aadc04c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,325,0,2c23c3762d7d935a5264
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,326,1,ddd71691c7f104dd9ba4
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,327,2,a8b150cf09369ccbb355
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,328,3,93cc975d638e326b0566
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,329,4,611a3aee1d2bda11cdbb
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,330,5,cb4055a0e05658d031d2
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,331,6,0ac7e4af40aff568c02c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,332,7,000e097bc0517e091ee1
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,333,8,30a25ee135cd3d3ea986
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,334,9,7e3a99703bd271a9c02d
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,335,10,164e774f6c059b7f62a8
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,336,11,4bd37293448c938a051a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,337,12,0dbcefd627cf1e19d764
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,338,13,bff8b45376f71d872cfe
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,339,14,4cbfa14447fafc16b46a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,340,15,c6a159aac020ab951835
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,341,16,6db236de7c00a86d9956
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,342,17,4de5e01e5bee453d3ebf
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,343,18,28838cd0187aaf611cfc
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,344,19,78852f1e1037dea4864d
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,345,20,3a7f0ec95ea362587157
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,346,21,ac5b78d840230bb45f94
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,347,22,33789429145691b6a5cc
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,348,23,916600785aa14fc2c1af
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,349,24,49292274a97a6e6ade5c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,350,25,db5ca92f0ad2ca78d2c9
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,351,26,caea4087c0da0a09ec18
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,352,27,4ca9d4e2fb030ecee8ba
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,353,28,845addb464cc76d0bbb4
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,354,29,86c0e86bf4a94695de6e
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,355,30,b6930dd7360bfa2bf197
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,356,31,c1f4a1a024c2192031c6
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,357,32,d3e08d41c3be9cf8c526
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,358,33,f3a9c5aeeaf34aaa317e
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,359,34,9b212461b9939151e70d
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,360,35,80b38a5ddb7c5fd16628
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,361,36,4651167f49360fa6c11b
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,362,37,764f1f228feb6c356475
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,363,38,674dcb99b9e326b73178
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,364,39,1caf61d98987c6238247
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,365,40,48f2ef8387cde8766186
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,366,41,29ddaa854c71b0b9dd94
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,367,42,df469053f3bebd03810b
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,368,43,8d182e94257bd79cecc2
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,369,44,56becf48b225b6cd10b7
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,370,45,faa6225fb28e2f716b13
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,371,46,9d95537015dc19775a38
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,372,47,7d74cfa975a2e49f67b7
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,373,48,ecc010d42bafb8558997
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,374,49,a7e2798f296e2074fc0a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,375,50,ce2b4cb1f2de5854e26e
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,376,51,8947b00d31fc281feaaa
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,377,52,1dc1572fba042c97333f
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,378,53,e616e2ad66d5072b762e
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,379,54,696bb57348e11e65622a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,380,55,8694e6af99c18bf091f2
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,381,56,a6741ad3863616c10ebc
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,382,57,5b8795f49799141f4578
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,383,58,647947e56c8b9d4e9403
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,384,59,362513c8585c9529a244
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,385,60,16989e022b6907451935
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,386,61,0b42bdd9056741ad613d
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,387,62,27ebecf98f4cc140514a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,388,63,78199dc68674487028a2
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,389,64,fafcdf40db36eecdfb58
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,390,65,dfda1ebd03ec025ac6ac
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,391,66,35521a04aac460851095
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,392,67,fa393ce7a6f177f7eb17
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,393,68,04002f71f1e38929f131
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,394,69,9f8a9a3c8385fcba0263
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,395,70,c7b3f658421de3b90f5a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,396,71,8cb5cd8a05ce8427d787
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,397,72,59a9d13ab4c157a3ebeb
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,398,73,f535f3b219b89aec3b7f
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,399,74,062e2419f91431b12040
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,400,75,c8fa028f4a486389784e
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,401,76,64eddba2d613f1e20c2a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,402,77,bea3c7947613d1b6789a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,403,78,297e3d00e91c79b15684
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,404,79,78e1901c6c14f9cf32be
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,405,80,e5e581b28c20898bb5cb
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,406,81,6a8f0d014d811f0e0533
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,407,82,09fc643a9dd0b1141b0e
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,408,83,34ec180cfe6c2ef1121a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,409,84,e6399a40db00c9b3b2e6
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,410,85,811e13da6ce033dae95a
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,411,86,1719fb4b945acd878f41
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,412,87,f6ee3934cc181da1676c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,413,88,20c6bc344a8feedcfcb7
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,414,89,9502483c423b67401fc9
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,415,90,1ed27c9b2a0e85b659e6
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,416,91,3375c86b13143f3d5d8c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,417,92,ed0d3867d8deec1b271c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,418,93,87e4e6e8842ada7b9253
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,419,94,d328c14ee6cb50a58789
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,420,95,772697df3c2c8b798c7c
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,421,96,195d9a95b9196d1f75e2
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,422,97,fa8902a196f58cd89f18
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,423,98,669f6f4a30178eed76dc
+A15,high_confidence,4101089474,325,424,100,213,Full 100-entry session,424,99,5a95a4fdd298eea010be
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,425,0,57c68fe094a48ce416a4
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,426,1,502092512cdea327c004
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,427,2,abbecd68da093b8ccca9
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,428,3,284e344c65b35f3d057b
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,429,4,5bbd1d1f29ec9cba18d3
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,430,5,572c9f54556aabdcc164
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,431,6,d7ea593eb83688f1766c
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,432,7,49ec40430dfbe9107191
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,433,8,0e2037a13661ec7931b9
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,434,9,c180611e9ef9c5ac0ca2
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,435,10,46ec44f6538f0dfa3deb
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,436,11,90b98caf868d91e911b4
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,437,12,0bebcebf19fb9311e975
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,438,13,8553cc7dc5bbd9630df7
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,439,14,3af631064fa3c77e1a48
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,440,15,02edefa01c38317ea474
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,441,16,541da717b93112825c12
+A16,high_confidence,3551943739,425,442,18,312,Starts on duplicate ID 312,442,17,4ae865d15b38482086fe
+A17,high_confidence,837728196,443,452,10,329,Short strong session,443,0,47470c773096e55d9b34
+A17,high_confidence,837728196,443,452,10,329,Short strong session,444,1,98f01c69951698085e96
+A17,high_confidence,837728196,443,452,10,329,Short strong session,445,2,fe705239868498e45787
+A17,high_confidence,837728196,443,452,10,329,Short strong session,446,3,e4074dfe4bf103c48d60
+A17,high_confidence,837728196,443,452,10,329,Short strong session,447,4,25f1d970e27daf04d82e
+A17,high_confidence,837728196,443,452,10,329,Short strong session,448,5,cd6e21a51a0ec099a29e
+A17,high_confidence,837728196,443,452,10,329,Short strong session,449,6,5d2566b37f3ef6f31a3e
+A17,high_confidence,837728196,443,452,10,329,Short strong session,450,7,b5351b4ce962aaf22cc4
+A17,high_confidence,837728196,443,452,10,329,Short strong session,451,8,c4225f78fd4da40feaf7
+A17,high_confidence,837728196,443,452,10,329,Short strong session,452,9,66c744f2721bda8986f7
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,453,0,0b574b661f3bccaa9586
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,454,1,ec95b3fc1a8714ce50a3
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,455,2,fa8f6c1de6dd0e87de73
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,456,3,f98328219c7e4b9054ce
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,457,4,3ff2d9825e08b5e251b6
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,458,5,15b2718b1cbca2b14b9c
+R8,repair_candidate,3754945813,453,459,7,338,Repair / short batch candidate,459,6,5bfac64a027d18fc194c
+A18,high_confidence,2675176738,501,537,37,385,Major later session,501,0,b4824a6c6fb9597df54d
+A18,high_confidence,2675176738,501,537,37,385,Major later session,502,1,f026849948fd3a997deb
+A18,high_confidence,2675176738,501,537,37,385,Major later session,503,2,eda7c35b7864f17a73d1
+A18,high_confidence,2675176738,501,537,37,385,Major later session,504,3,7e9c9f68764c7c57562c
+A18,high_confidence,2675176738,501,537,37,385,Major later session,505,4,6a6df7bf9452c8fb54b8
+A18,high_confidence,2675176738,501,537,37,385,Major later session,506,5,7d6a250a894fbd88fd84
+A18,high_confidence,2675176738,501,537,37,385,Major later session,507,6,8dc9aa6358552220f543
+A18,high_confidence,2675176738,501,537,37,385,Major later session,508,7,a7b46699a902326eabc1
+A18,high_confidence,2675176738,501,537,37,385,Major later session,509,8,351638d8f0cd95f3532f
+A18,high_confidence,2675176738,501,537,37,385,Major later session,510,9,d3c3507c7c57e5e2adfd
+A18,high_confidence,2675176738,501,537,37,385,Major later session,511,10,97d81cbc4bdccfd881b6
+A18,high_confidence,2675176738,501,537,37,385,Major later session,512,11,07ebe1bcbc231a0d608b
+A18,high_confidence,2675176738,501,537,37,385,Major later session,513,12,834a787580b6d688b139
+A18,high_confidence,2675176738,501,537,37,385,Major later session,514,13,30eb5d659bbfe4916436
+A18,high_confidence,2675176738,501,537,37,385,Major later session,515,14,022e7403c528a40c5f2a
+A18,high_confidence,2675176738,501,537,37,385,Major later session,516,15,5678639ac57f0f749fd2
+A18,high_confidence,2675176738,501,537,37,385,Major later session,517,16,713409eaa578adcfed98
+A18,high_confidence,2675176738,501,537,37,385,Major later session,518,17,df9b54ef8bee36c4c3c1
+A18,high_confidence,2675176738,501,537,37,385,Major later session,519,18,cd075d62b6d91699ef3d
+A18,high_confidence,2675176738,501,537,37,385,Major later session,520,19,82c0dd6b413e5d30a436
+A18,high_confidence,2675176738,501,537,37,385,Major later session,521,20,fa8aee0cb2279260f39d
+A18,high_confidence,2675176738,501,537,37,385,Major later session,522,21,d8016b723b707c1aa627
+A18,high_confidence,2675176738,501,537,37,385,Major later session,523,22,d7cd31a0a9993985c8e2
+A18,high_confidence,2675176738,501,537,37,385,Major later session,524,23,e16c486918e8a392eeb1
+A18,high_confidence,2675176738,501,537,37,385,Major later session,525,24,399fd942b74659219deb
+A18,high_confidence,2675176738,501,537,37,385,Major later session,526,25,22397c9ba54f41e7241b
+A18,high_confidence,2675176738,501,537,37,385,Major later session,527,26,5eceb4eee85bcd3b5c1b
+A18,high_confidence,2675176738,501,537,37,385,Major later session,528,27,d0c4c705416a81b76336
+A18,high_confidence,2675176738,501,537,37,385,Major later session,529,28,44c2d837be9bd944c793
+A18,high_confidence,2675176738,501,537,37,385,Major later session,530,29,d03b362e5d62e1db6fda
+A18,high_confidence,2675176738,501,537,37,385,Major later session,531,30,59fc9e567e61eb869153
+A18,high_confidence,2675176738,501,537,37,385,Major later session,532,31,4939551d2bb150ea7f54
+A18,high_confidence,2675176738,501,537,37,385,Major later session,533,32,e47c3c768e3ca29ca5f2
+A18,high_confidence,2675176738,501,537,37,385,Major later session,534,33,b30fadfc9c4cf6c90617
+A18,high_confidence,2675176738,501,537,37,385,Major later session,535,34,a83212208eeb93df4db8
+A18,high_confidence,2675176738,501,537,37,385,Major later session,536,35,39a6cd1075ebe7b19101
+A18,high_confidence,2675176738,501,537,37,385,Major later session,537,36,73f1050686344e7b9da3
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,538,0,dbd4d2962377561d8e4c
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,539,1,541fbb779ff6204e49f4
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,540,2,fe34e480a01f052442d4
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,541,3,f13a2fd5e853e21586fe
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,542,4,cf1e91a97163ef009258
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,543,5,f5233d0312bd3604453f
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,544,6,8af92f0a4b3cefb8babd
+R9,repair_candidate,2425737179,538,545,8,421,Repair / short batch candidate,545,7,e7f072ea9e25cda9a55d
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,546,0,27de614313f70a4147ea
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,547,1,c14de9590b881da017f6
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,548,2,05eff1bf4d859ac35b04
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,549,3,a30c716b79d349babba1
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,550,4,a0887fe9f706275655ee
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,551,5,abd31fa31a2fc2558733
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,552,6,70dcd9fdb1e2a647fd12
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,553,7,aae376bf19acee093a8a
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,554,8,57606ea1c0d4fec8f932
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,555,9,bcef2dd267562918292c
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,556,10,747b24232648988e7e02
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,557,11,790966a2926ec4a95e6a
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,558,12,4022c8f06b721b92843a
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,559,13,815444351e9d85fac8df
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,560,14,c39832f13f9f666d0b5d
+A19,high_confidence,4245513479,546,561,16,428,Starts on duplicate ID 428,561,15,7c60bdcb9c1e4047534f
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,562,0,ea5b79af4eb20e123f1f
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,563,1,9307e408ec436f519f03
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,564,2,bcf50f3dbd57339d7bed
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,565,3,3676d4aad64720d1b3f4
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,566,4,0a4b22fe9bbff27cf98f
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,567,5,c6d6cce270b2943e66d2
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,568,6,26147456b1bc87ce4934
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,569,7,fe53c4ec774bf454269d
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,570,8,f1d9d4d97e7b6d683db7
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,571,9,0310ec77ef71feb62fe6
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,572,10,80849ef0f53e76a907c4
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,573,11,8ce3b693448b00730745
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,574,12,11ae4d69ec61270065e0
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,575,13,78318feea475615e80e8
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,576,14,10d60289dd1d69514552
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,577,15,7c5f036eadab42d9e719
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,578,16,afc2a65970751930887f
+A20,high_confidence,1463428915,562,579,18,443,Starts on duplicate ID 443,579,17,c57a42f9af38b75b230c
+R10,repair_candidate,2838917246,586,587,2,294,Repair / short batch candidate,586,0,190ed4362c08d58151f2
+R10,repair_candidate,2838917246,586,587,2,294,Repair / short batch candidate,587,1,4824dc3aa863ccec6729

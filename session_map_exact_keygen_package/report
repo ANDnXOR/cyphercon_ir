@@ -1,0 +1,42 @@
+{
+  "model": {
+    "rng_core": "drand48",
+    "seed": "direct seed32",
+    "warmup_draws": 0,
+    "per_badge_skip": 0
+  },
+  "segment_count": 30,
+  "generated_key_count": 524,
+  "labels": [
+    "A1",
+    "R1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "R2",
+    "A6",
+    "A7",
+    "R3",
+    "A8",
+    "A9",
+    "A10",
+    "A11",
+    "R4",
+    "R5",
+    "A12",
+    "R6",
+    "A13",
+    "R7",
+    "A14",
+    "A15",
+    "A16",
+    "A17",
+    "R8",
+    "A18",
+    "R9",
+    "A19",
+    "A20",
+    "R10"
+  ]
+}
