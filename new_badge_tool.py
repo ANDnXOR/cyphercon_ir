@@ -173,5 +173,5 @@ def cryptoStuff(crypt, key):
     
     return crypt
 
-vendo()
-#jackpot()
+#vendo()
+jackpot()

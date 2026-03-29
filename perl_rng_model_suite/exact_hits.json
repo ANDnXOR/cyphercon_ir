@@ -1,0 +1,459 @@
+{
+  "keyfile": "Tymkrs_Cyphercon_2020_keys.txt",
+  "entry_count": 589,
+  "results": [
+    {
+      "model": "drand48_520_plus",
+      "start_seed32": 0,
+      "end_seed32": 4294967295,
+      "warmup_min": 0,
+      "warmup_max": 0,
+      "survivors": 38639798,
+      "elapsed_sec": 27.68446373939514,
+      "hits": [
+        {
+          "model": "drand48_520_plus",
+          "seed32": 172985941,
+          "seed_iso": "1975-06-26T03:39:01+00:00",
+          "warmup_draws": 0,
+          "file_pos": 584,
+          "badge_id": 294,
+          "key_hex": "f4399b0dcf8fd17899f5"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 284130796,
+          "seed_iso": "1979-01-02T13:13:16+00:00",
+          "warmup_draws": 0,
+          "file_pos": 198,
+          "badge_id": 95,
+          "key_hex": "4a3595360519aa13beaf"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 523886394,
+          "seed_iso": "1986-08-08T11:59:54+00:00",
+          "warmup_draws": 0,
+          "file_pos": 201,
+          "badge_id": 97,
+          "key_hex": "8a4e05bea2064d9f2def"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 600467025,
+          "seed_iso": "1989-01-10T20:23:45+00:00",
+          "warmup_draws": 0,
+          "file_pos": 93,
+          "badge_id": 1,
+          "key_hex": "d0a729972835d5c89078"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 713806982,
+          "seed_iso": "1992-08-14T15:43:02+00:00",
+          "warmup_draws": 0,
+          "file_pos": 171,
+          "badge_id": 70,
+          "key_hex": "0993776634c609a4e073"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 751945567,
+          "seed_iso": "1993-10-30T01:46:07+00:00",
+          "warmup_draws": 0,
+          "file_pos": 581,
+          "badge_id": 556,
+          "key_hex": "e6e2521e067c3741abfc"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 809496195,
+          "seed_iso": "1995-08-27T04:03:15+00:00",
+          "warmup_draws": 0,
+          "file_pos": 207,
+          "badge_id": 102,
+          "key_hex": "a19630aff6937f21900c"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 810677450,
+          "seed_iso": "1995-09-09T20:10:50+00:00",
+          "warmup_draws": 0,
+          "file_pos": 588,
+          "badge_id": 583,
+          "key_hex": "3698b3767e72bf567e4e"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 837728196,
+          "seed_iso": "1996-07-18T22:16:36+00:00",
+          "warmup_draws": 0,
+          "file_pos": 443,
+          "badge_id": 329,
+          "key_hex": "47470c773096e55d9b34"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 920112182,
+          "seed_iso": "1999-02-27T10:43:02+00:00",
+          "warmup_draws": 0,
+          "file_pos": 583,
+          "badge_id": 0,
+          "key_hex": "7c38eeca46bb9785b152"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 947075967,
+          "seed_iso": "2000-01-05T12:39:27+00:00",
+          "warmup_draws": 0,
+          "file_pos": 582,
+          "badge_id": 460,
+          "key_hex": "b60351a3561da9b065e8"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 995284052,
+          "seed_iso": "2001-07-16T11:47:32+00:00",
+          "warmup_draws": 0,
+          "file_pos": 281,
+          "badge_id": 173,
+          "key_hex": "6d00c3160b1d7551f7c0"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 1241553077,
+          "seed_iso": "2009-05-05T19:51:17+00:00",
+          "warmup_draws": 0,
+          "file_pos": 45,
+          "badge_id": 512,
+          "key_hex": "f3a777635c95a0c34814"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 1463428915,
+          "seed_iso": "2016-05-16T20:01:55+00:00",
+          "warmup_draws": 0,
+          "file_pos": 562,
+          "badge_id": 443,
+          "key_hex": "ea5b79af4eb20e123f1f"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 1471041271,
+          "seed_iso": "2016-08-12T22:34:31+00:00",
+          "warmup_draws": 0,
+          "file_pos": 105,
+          "badge_id": 10,
+          "key_hex": "19cdfbc3255cebc0a94e"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 1634202772,
+          "seed_iso": "2021-10-14T09:12:52+00:00",
+          "warmup_draws": 0,
+          "file_pos": 122,
+          "badge_id": 24,
+          "key_hex": "da8a5fbf54e106c2813b"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 1964177823,
+          "seed_iso": "2032-03-29T12:57:03+00:00",
+          "warmup_draws": 0,
+          "file_pos": 70,
+          "badge_id": 533,
+          "key_hex": "11e9887f04606013fb8c"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2010031080,
+          "seed_iso": "2033-09-11T05:58:00+00:00",
+          "warmup_draws": 0,
+          "file_pos": 302,
+          "badge_id": 192,
+          "key_hex": "1f8cb185e6b24cefaec6"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2098923695,
+          "seed_iso": "2036-07-06T02:21:35+00:00",
+          "warmup_draws": 0,
+          "file_pos": 278,
+          "badge_id": 171,
+          "key_hex": "7c6bc80c5f2d9e3bc08c"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2111803157,
+          "seed_iso": "2036-12-02T03:59:17+00:00",
+          "warmup_draws": 0,
+          "file_pos": 580,
+          "badge_id": 556,
+          "key_hex": "bb87588a145d612ab6f2"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2196460210,
+          "seed_iso": "2039-08-08T23:50:10+00:00",
+          "warmup_draws": 0,
+          "file_pos": 49,
+          "badge_id": 512,
+          "key_hex": "edcd78d7ea75ece78b81"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2388113560,
+          "seed_iso": "2045-09-04T04:52:40+00:00",
+          "warmup_draws": 0,
+          "file_pos": 47,
+          "badge_id": 512,
+          "key_hex": "92a7534274c0ec496296"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2425737179,
+          "seed_iso": "2046-11-13T15:52:59+00:00",
+          "warmup_draws": 0,
+          "file_pos": 538,
+          "badge_id": 421,
+          "key_hex": "dbd4d2962377561d8e4c"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2506468276,
+          "seed_iso": "2049-06-05T01:11:16+00:00",
+          "warmup_draws": 0,
+          "file_pos": 46,
+          "badge_id": 512,
+          "key_hex": "81f129b39f0e7b629e3d"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2571777921,
+          "seed_iso": "2051-06-30T22:45:21+00:00",
+          "warmup_draws": 0,
+          "file_pos": 308,
+          "badge_id": 197,
+          "key_hex": "2609b318bbd6cf5df026"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2675176738,
+          "seed_iso": "2054-10-09T16:38:58+00:00",
+          "warmup_draws": 0,
+          "file_pos": 501,
+          "badge_id": 385,
+          "key_hex": "b4824a6c6fb9597df54d"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2780395207,
+          "seed_iso": "2058-02-08T12:00:07+00:00",
+          "warmup_draws": 0,
+          "file_pos": 20,
+          "badge_id": 650,
+          "key_hex": "6d6dd19d95960daf4939"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2838917246,
+          "seed_iso": "2059-12-17T20:07:26+00:00",
+          "warmup_draws": 0,
+          "file_pos": 586,
+          "badge_id": 294,
+          "key_hex": "190ed4362c08d58151f2"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2851492325,
+          "seed_iso": "2060-05-11T09:12:05+00:00",
+          "warmup_draws": 0,
+          "file_pos": 10,
+          "badge_id": 640,
+          "key_hex": "ebce1e16e356ab544029"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2869933995,
+          "seed_iso": "2060-12-10T19:53:15+00:00",
+          "warmup_draws": 0,
+          "file_pos": 17,
+          "badge_id": 647,
+          "key_hex": "bba27e1e19887bee1fcc"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2891573337,
+          "seed_iso": "2061-08-18T06:48:57+00:00",
+          "warmup_draws": 0,
+          "file_pos": 277,
+          "badge_id": 171,
+          "key_hex": "b4a892fbad732e4810a9"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2978206399,
+          "seed_iso": "2064-05-16T23:33:19+00:00",
+          "warmup_draws": 0,
+          "file_pos": 136,
+          "badge_id": 37,
+          "key_hex": "1a08c595bd916c36aa9b"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 2997269602,
+          "seed_iso": "2064-12-23T14:53:22+00:00",
+          "warmup_draws": 0,
+          "file_pos": 204,
+          "badge_id": 99,
+          "key_hex": "4816702718cacddf0c35"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3030724834,
+          "seed_iso": "2066-01-14T20:00:34+00:00",
+          "warmup_draws": 0,
+          "file_pos": 113,
+          "badge_id": 17,
+          "key_hex": "8b870d9f87be9faf1e5e"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3144206035,
+          "seed_iso": "2069-08-20T06:33:55+00:00",
+          "warmup_draws": 0,
+          "file_pos": 95,
+          "badge_id": 2,
+          "key_hex": "5ea05c73e7727263f017"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3192428518,
+          "seed_iso": "2071-03-01T09:41:58+00:00",
+          "warmup_draws": 0,
+          "file_pos": 43,
+          "badge_id": 594,
+          "key_hex": "e44ff27783f2f1c9b3a8"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3409364283,
+          "seed_iso": "2078-01-14T05:38:03+00:00",
+          "warmup_draws": 0,
+          "file_pos": 96,
+          "badge_id": 2,
+          "key_hex": "e2aef703fd161dbaf95f"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3508114719,
+          "seed_iso": "2081-03-02T04:18:39+00:00",
+          "warmup_draws": 0,
+          "file_pos": 585,
+          "badge_id": 294,
+          "key_hex": "893a3b49250a41047d00"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3551943739,
+          "seed_iso": "2082-07-22T11:02:19+00:00",
+          "warmup_draws": 0,
+          "file_pos": 425,
+          "badge_id": 312,
+          "key_hex": "57c68fe094a48ce416a4"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3590758000,
+          "seed_iso": "2083-10-14T16:46:40+00:00",
+          "warmup_draws": 0,
+          "file_pos": 120,
+          "badge_id": 23,
+          "key_hex": "6df35cd4e4847d87c49b"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3633125972,
+          "seed_iso": "2085-02-16T01:39:32+00:00",
+          "warmup_draws": 0,
+          "file_pos": 153,
+          "badge_id": 53,
+          "key_hex": "4204472f4c0461e5d595"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3636326349,
+          "seed_iso": "2085-03-25T02:39:09+00:00",
+          "warmup_draws": 0,
+          "file_pos": 48,
+          "badge_id": 512,
+          "key_hex": "f0217941b6ec4f421819"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3754945813,
+          "seed_iso": "2088-12-27T00:30:13+00:00",
+          "warmup_draws": 0,
+          "file_pos": 453,
+          "badge_id": 338,
+          "key_hex": "0b574b661f3bccaa9586"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3765470317,
+          "seed_iso": "2089-04-27T19:58:37+00:00",
+          "warmup_draws": 0,
+          "file_pos": 84,
+          "badge_id": 547,
+          "key_hex": "6c7f92f48baa4905b68c"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3766097382,
+          "seed_iso": "2089-05-05T02:09:42+00:00",
+          "warmup_draws": 0,
+          "file_pos": 0,
+          "badge_id": 630,
+          "key_hex": "1384efc1556c602589de"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 3824015219,
+          "seed_iso": "2091-03-06T10:26:59+00:00",
+          "warmup_draws": 0,
+          "file_pos": 1,
+          "badge_id": 631,
+          "key_hex": "3f2da9c007c74b094a48"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 4101089474,
+          "seed_iso": "2099-12-16T07:31:14+00:00",
+          "warmup_draws": 0,
+          "file_pos": 325,
+          "badge_id": 213,
+          "key_hex": "2c23c3762d7d935a5264"
+        },
+        {
+          "model": "drand48_520_plus",
+          "seed32": 4245513479,
+          "seed_iso": "2104-07-14T21:17:59+00:00",
+          "warmup_draws": 0,
+          "file_pos": 546,
+          "badge_id": 428,
+          "key_hex": "27de614313f70a4147ea"
+        }
+      ]
+    },
+    {
+      "model": "msvcrt_pre520",
+      "start_seed32": 0,
+      "end_seed32": 4294967295,
+      "warmup_min": 0,
+      "warmup_max": 0,
+      "survivors": 38634256,
+      "elapsed_sec": 29.54508686065674,
+      "hits": []
+    }
+  ]
+}

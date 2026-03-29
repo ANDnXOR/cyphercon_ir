@@ -1,0 +1,15 @@
+Function:
+	HackIR is a IR to serial bridge board. 
+	Host side is RS-TTL 4800 8N1 no flow control
+	IR side is 38kHz modulated
+	What you send / see is what is on the network (no conversion)
+	Red led = TX 
+	Green led (dim) = RX
+	
+Connections:
+	J2-1 V+ 3.3V to 5V (match your IO voltage)
+	J2-2 TX out of HackIR
+	J2-3 RX in to HackIR
+	J2-4 Ground
+	
+	J1 - PicKit standard pinout for reprogramming
