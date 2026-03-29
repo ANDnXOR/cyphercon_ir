@@ -1,0 +1,6 @@
+./drand48_oracle_scan \
+  --type3-hex 536d6173683f000302ff758f477dd59482a8c5bbe6 \
+  --type4-hex 536d6173683f030401b576460019673a1704f8750a \
+  --dump-once-hex 6ca3 \
+  --badge-id 0x01b5 \
+  --requested-credits 0x0001 --keys-per-seed 20
